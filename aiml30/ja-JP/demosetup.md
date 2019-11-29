@@ -54,14 +54,14 @@
 
 1. [こちらから VS Code をダウンロードしてください](https://code.visualstudio.com/download)
 2. [.NET Core SDK 2.1.0](https://dotnet.microsoft.com/download/dotnet-core/2.1) がローカルにインストールされていることを確認します
-3. 次のコマンドでアプリを複製します
+2. 次のコマンドでアプリを複製します
     * `git clone https://github.com/microsoft/ignite-learning-paths-training-aiml.git`
-4. プロジェクト パスに移動します。
+3. プロジェクト パスに移動します。
     * `cd ignite-learning-paths-training-aiml/aiml30/C#/IgniteAimlDataApp/IgniteAimlDataApp`
-5. VS Code でプロジェクトを開く
+4. VS Code でプロジェクトを開く
     * `code .`
-6. `IgniteAimlDataApp/Datasets` フォルダーで、上の手順でダウンロードしたデータセットでローカル データセットを置換します。
-7. アプリを実行するには
+5. `IgniteAimlDataApp/Datasets` フォルダーで、上の手順でダウンロードしたデータセットでローカル データセットを置換します。
+6. アプリを実行するには
     * `Program.cs` を右クリックして [`Open in Terminal`] を選択します
     * コマンド `dotnet run` を実行する Mac ユーザー向けのメモ: プログラムがインポートしたファイルを見つけることができないというエラーが表示された場合は、Program.cs の 14 行目にスラッシュ `string sourceFile = $"{Environment.CurrentDirectory}//Datasets//{fileName}.csv";` を含めるように変更します
     * 質問 `Would you like to run the default params` が表示されるので「`y`」と入力します
