@@ -28,10 +28,10 @@ AI 学习曲线的每个阶段都包含不同的内容；无论你是要使用 M
 
 ## <a name="sessions"></a>讲座
 
-* 有 5 个 45 分钟的讲座 **** （[AIML10](aiml10/README.md)、[AIML20](aiml20/README.md)、[AIML30](aiml30/README.md)、[AIML40](aiml40/README.md) 和 [AIML50](aiml50/README.md)）
-* 和 1 个 20 分钟的视频讲座 **** ([AIML21](aiml21/README.md))
+* 有 5 个 45 分钟的讲座  （[AIML10](aiml10/README.md)、[AIML20](aiml20/README.md)、[AIML30](aiml30/README.md)、[AIML40](aiml40/README.md) 和 [AIML50](aiml50/README.md)）
+* 和 1 个 20 分钟的视频讲座  ([AIML21](aiml21/README.md))
 
-以下学习路径中提供所有讲座：AI 开发人员指南（也为： **** AIML **** ）
+以下学习路径中提供所有讲座：AI 开发人员指南（也为：  AIML  ）
 
 ### <a name="aiml10-making-sense-of-your-unstructured-data-with-aiaiml10readmemd"></a>[AIML10：通过 AI 了解非结构化数据](aiml10/README.md)
 
@@ -68,9 +68,9 @@ Tailwind Traders 的数据科学团队使用自然语言处理 (NLP)，最近发
 
 ## <a name="become-a-trained-presenter"></a>成为经培训的讲师
 
-不需要进行任何准备即可讲述此内容，所需资料都已准备就绪。 但是，成为经培训的讲师 ** 可以得到可扩展内容团队的认可。 经培训的讲师 ** 可以在每个讲座底部查看其联系信息（姓名、照片、网站）。  
+不需要进行任何准备即可讲述此内容，所需资料都已准备就绪。 但是，成为经培训的讲师  可以得到可扩展内容团队的认可。 经培训的讲师  可以在每个讲座底部查看其联系信息（姓名、照片、网站）。  
  
-若要成为经培训的讲师，请联系 [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com) ** 。 在电子邮件中，请提供：
+若要成为经培训的讲师，请联系 [scalablecontent@microsoft.com](mailto:scalablecontent@microsoft.com)  。 在电子邮件中，请提供：
 
 - 你的全名：
 - 此演示文稿的代码：\<讲座代码 (ex:APPS10)\>
