@@ -26,7 +26,7 @@
 
 1. 重启 Web 服务器。 返回到“aiml20”应用服务资源，然后单击顶部菜单栏中的“重启”。 等待两分钟让网站完全重启。
 
-## <a name="defining-the-problem-shop-by-photo-doesnt-work-right"></a>定义问题：“按图购物”不正常工作
+## <a name="defining-the-problem-shop-by-photo-doesnt-work-right"></a>定义问题：“按图购物”不能正常工作
 
 （注意：本部分的操作已在 AIML20 演示文稿的开头部分完成。）
 
