@@ -1,4 +1,4 @@
-# Ignite Learning Paths - Developers Guide to AI
+# Ignite Learning Paths - Developers Guide to AI <!--test2 esp-->
 
 ![Learning Path](https://img.shields.io/badge/Learning%20Path-AIML-fe5e00?logo=microsoft)  ![Session](https://img.shields.io/badge/🗣️Sessions-6-31c754)
 
