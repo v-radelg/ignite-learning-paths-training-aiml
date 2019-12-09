@@ -1,4 +1,4 @@
-# <a name="ignite-learning-paths---developers-guide-to-ai"></a>Ignite ラーニング パス - AI 開発者ガイド
+# <a name="ignite-learning-paths---developers-guide-to-ai"></a>Ignite ラーニング パス - AI 開発者ガイド <!--test3 jap-->
 
 ![ラーニング パス](https://img.shields.io/badge/Learning%20Path-AIML-fe5e00?logo=microsoft)  ![セッション](https://img.shields.io/badge/🗣️Sessions-6-31c754)
 
